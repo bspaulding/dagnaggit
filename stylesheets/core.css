@@ -1,0 +1,12 @@
+body { width: 60%; margin: 22px auto; font-size: 18px; line-height: 22px; text-align: center; }
+
+input {
+  margin: 11px 0px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 9px;
+  font-size: 18px; line-height: 22px;
+  border: 1px solid #ccc;
+  border-radius: 9px;
+  background: -webkit-linear-gradient(bottom, #fafafa, white);
+}
